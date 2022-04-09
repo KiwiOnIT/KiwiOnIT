@@ -2,10 +2,28 @@
   <b>KiwiOnIT</b>
 </h1>
 
-Yo ! Je suis Kiwi.
+Salut ! je m'appelle Anthonin je suis en classe de 3 ème, je suis passioné d'informatique et voila 1 ans que je me suis lancé dans la "programmation" je suis très nul mais oklm
 
 <br>
 
+
+```javascript
+const KiwiOnIT = require("Self")
+const Discord = require("discord.js");
+
+var embedSelf = new Discord.MessageEmbed()
+    .setNom("Anthonin")
+    .setUsername("KiwiOnIT")
+    .setLocalisation("Rouen, France")
+    .setTwitch("twitch.tv/kiwionwii")
+    .setDiscord("Kiwi#7975")
+    .setTwitter("twitter.com/KiwiOnWii")
+
+message.channel.send(embedSelf)
+
+
+```
+## Mes languages et outils utilisés
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -17,23 +35,7 @@ Yo ! Je suis Kiwi.
 </div>
 </p>
 
-```python
-class KiwiOnIT():
-    
-  def __init__(self):
-    self.username = "KiwiOnIT";
-    self.location = "Rouen, France";
-    self.Twitch = "twitch.tv/kiwionit";
-    self.discord = "Kiwi#7975";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = KiwiOnIT()
-```
-
-## Mes stats
+## Mes statistiques
 
 <br/>
 <p align="left">
