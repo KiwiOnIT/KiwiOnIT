@@ -2,7 +2,7 @@
   <b>KiwiOnIT</b>
 </h1>
 
-Salut ! Je m'appelle Anthonin je suis en classe de 3 ème, je suis passioné d'informatique et voila 1 ans que je me suis lancé dans la "programmation" je suis très nul mais oklm.
+Salut ! je m'appelle Anthonin je suis en classe de 3 ème, je suis passioné d'informatique et voila 1 ans que je me suis lancé dans la "programmation" je suis très nul mais oklm
 
 <br>
 
@@ -39,7 +39,7 @@ message.channel.send(embedSelf)
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://github.com/kiwionit">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KiwiOnIT&show_icons=true&theme=dark&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiOnIT&theme=dark&hide_border=true" />
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwionit&layout=compact&theme=dark&hide_border=true" />
