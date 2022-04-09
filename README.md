@@ -33,12 +33,6 @@ if __name__ == '__main__':
     me = KiwiOnIT()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/eth0r1268h7xy5cfvi9c0mlkt">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 ## Mes stats
 
 <br/>
