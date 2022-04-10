@@ -53,10 +53,9 @@ message.channel.send(embedSelf)
 <br/>
 <p align="left">
   <a href="https://github.com/kiwionit">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiwiOnIT&show_icons=true&theme=dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiOnIT&theme=dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwionit&layout=compact&theme=dark&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiwiOnIT&show_icons=true&theme=dark&hide_border=true" />
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiOnIT&theme=dark&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwionit&layout=compact&theme=dark&hide_border=true" />
   </a>
 </p>
 <br>
-
