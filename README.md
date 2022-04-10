@@ -24,7 +24,7 @@ message.channel.send(embedSelf)
 
 ```
 
-## Mes reseaux
+## Mes réseaux
 
 <p>
 <div align="center">
