@@ -24,7 +24,7 @@ message.channel.send(embedSelf)
 
 ```
 
-## Mes réseaux
+## Mes reseaux
 
 <p>
 <div align="center">
@@ -53,9 +53,11 @@ message.channel.send(embedSelf)
 <br/>
 <p align="left">
   <a href="https://github.com/kiwionit">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KiwiOnIT&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiOnIT&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwionit&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KiwiOnIT&show_icons=true&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiOnIT&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwionit&layout=compact&theme=dark&hide_border=true" />
   </a>
 </p>
 <br>
+
+//width="32.5%"
