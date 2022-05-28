@@ -70,7 +70,7 @@ message.channel.send(embedSelf)
   <a href="https://github.com/kiwionit">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiwiOnIT&show_icons=true&theme=dark&hide_border=true" />
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiOnIT&theme=dark&hide_border=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwionit&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+    <img height="150em" src=""/>
   </a>
 </p>
 <br>
