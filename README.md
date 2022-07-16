@@ -22,6 +22,8 @@ Etude: Lycée, 2nd
 Discord: Kiwi#7579
 ```
 
+
+
 <br>
 
 ## Mes réseaux
