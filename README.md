@@ -2,27 +2,29 @@
   <b>KiwiOnIT</b>
 </h1>
 
-Salut ! Je m'appelle Anthonin je suis en classe de 3 ème, je suis passioné d'informatique et voila 1 ans que je me suis lancé dans la "programmation" je suis très nul mais oklm.
+Salut ! Je m'appelle Anthonin je suis en classe de 2nd, je suis passioné d'informatique et voila plus 1 ans que je me suis lancé dans la "programmation" je suis très nul mais oklm.
+
+---
+
+```bash
+> neofetch
+```
+
+<img align="left" src="https://avatars.githubusercontent.com/KiwiOnIT" width="220" style="border-radius:8px; padding-right:20px;">
+
+```csharp
+KiwiOnIT@github
+-------------------------
+OS: Ubuntu 22.04 LTS x64
+Shell: bash
+Localisation: Rouen, FR
+Etude: Lycée, 2nd
+Discord: Kiwi#7579
+```
+
+---
 
 <br>
-
-
-```javascript
-const KiwiOnIT = require("Self")
-const Discord = require("discord.js");
-
-var embedSelf = new Discord.MessageEmbed()
-    .setNom("Anthonin")
-    .setUsername("KiwiOnIT")
-    .setLocalisation("Rouen, France")
-    .setTwitch("twitch.tv/kiwionwii")
-    .setDiscord("Kiwi#7975")
-    .setTwitter("twitter.com/KiwiOnWii")
-
-message.channel.send(embedSelf)
-
-
-```
 
 ## Mes réseaux
 
@@ -35,6 +37,7 @@ message.channel.send(embedSelf)
 </div>
 </p>
 
+---
 
 ## OS utilisés
 
@@ -43,9 +46,12 @@ message.channel.send(embedSelf)
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  
+
 </div>
 </p>
+
+---
+
 
 ## Mes languages et outils utilisés
 
@@ -62,6 +68,8 @@ message.channel.send(embedSelf)
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 </p>
+
+---
 
 ## Mes statistiques
 
