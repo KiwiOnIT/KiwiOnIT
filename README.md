@@ -22,8 +22,6 @@ Etude: Lycée, 2nd
 Discord: Kiwi#7579
 ```
 
----
-
 <br>
 
 ## Mes réseaux
@@ -37,7 +35,6 @@ Discord: Kiwi#7579
 </div>
 </p>
 
----
 
 ## OS utilisés
 
@@ -50,7 +47,6 @@ Discord: Kiwi#7579
 </div>
 </p>
 
----
 
 
 ## Mes languages et outils utilisés
@@ -69,7 +65,6 @@ Discord: Kiwi#7579
 </div>
 </p>
 
----
 
 ## Mes statistiques
 
