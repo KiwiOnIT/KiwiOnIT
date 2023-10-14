@@ -18,8 +18,8 @@ KiwiOnIT@github
 OS: Ubuntu 22.04 LTS x64
 Shell: bash
 Localisation: Rouen, FR
-Etude: Lycée, 2nd
-Discord: Kiwi#7579
+Etude: Lycée, 1ère
+Discord: kiwiit
 ```
 <br>
 
