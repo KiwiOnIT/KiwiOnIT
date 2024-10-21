@@ -2,7 +2,7 @@
   <b>KiwiOnIT</b>
 </h1>
 
-Salut ! Je m'appelle Anthonin je suis en classe de 1ère, je suis passioné d'informatique et voila plus 3 ans que je me suis lancé dans la "programmation" je suis très nul mais oklm.
+Salut ! Je m'appelle Anthonin je suis en Terminale, je suis passioné d'informatique et voila plus 4 ans que je me suis lancé dans la "programmation" je suis très nul mais oklm.
 
 ---
 
