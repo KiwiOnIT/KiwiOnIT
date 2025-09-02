@@ -2,7 +2,7 @@
   <b>KiwiOnIT</b>
 </h1>
 
-Salut ! Je m'appelle Anthonin je suis en Terminale, je suis passioné d'informatique et voila plus 4 ans que je me suis lancé dans la "programmation" je suis très nul mais oklm.
+Salut ! Je m'appelle Anthonin je suis en 1er année BUT.
 
 ---
 
@@ -17,8 +17,8 @@ KiwiOnIT@github
 -------------------------
 OS: Ubuntu 22.04 LTS x64
 Shell: bash
-Localisation: Rouen, FR
-Etude: Lycée, Tle
+Localisation: Le Havre, FR
+Etude: 1er année BUT Info
 Discord: kiwiit
 ```
 <br>
